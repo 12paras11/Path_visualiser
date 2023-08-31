@@ -44,5 +44,5 @@ After visualization you can reposition start and end node as you want and add an
 ## Developers
 ### This Project was built by
 
-- Himanshu Chaudhary
-- Palak Kothari
+- Suryansh Gaur
+
